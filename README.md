@@ -1,7 +1,7 @@
 # dice-simulation
 Small repo using python and Jupyter to calculate some dice probabilities. 
 
-My use case is work out some suitable dice mechanices for board game design.
+My use case is to work out suitable dice mechanics for a board game.
 
 **What it does**
 
