@@ -3,6 +3,8 @@ Small repo using python and Jupyter to calculate some dice probabilities.
 
 My use case is to work out suitable dice mechanics for a board game.
 
+See the [notebook here](https://github.com/drewlr/dice-simulation/blob/main/Prob%20of%20at%20least%20a%20number.ipynb) 
+
 **What it does**
 
 - It can estimate probability that rolling N dice simultaneously, you get:
